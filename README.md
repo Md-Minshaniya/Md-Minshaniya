@@ -199,29 +199,4 @@ Cross-platform multiplayer strategy game featuring offline and online gameplay, 
 
 ---
 
-## Internship Experience
 
-### Microsoft Elevate – Microsoft Azure Virtual Internship
-
-`January 2026 – February 2026`
-
-- Gained hands-on experience with Azure Storage, Cosmos DB, Static Web App deployment, and Azure AI services
-- Completed Microsoft Learn modules on Azure Fundamentals, Azure AI Fundamentals, and Microsoft Security Fundamentals
-- Participated in technical sessions, practical exercises, assessments, and project-based learning
-
-### ServiceNow Virtual Internship Program
-
-`March 2025 – October 2025`
-
-- Gained hands-on experience with ServiceNow platform administration, workflow automation, Automated Test Framework, and reporting
-- Completed ServiceNow Fundamentals training
-- Earned the **Welcome to ServiceNow Micro-Certification**
-- Prepared for the ServiceNow Certified System Administrator certification
-
----
-
-## Achievements and Certifications
-
-- **NPTEL Programming in Java:** Scored 94%
-- **LeetCode:** Solved 300+ Data Structures and Algorithms problems
-- Published the **Color Blast** multiplayer mobile game on Google Play Store
