@@ -16,7 +16,7 @@
     />
   </a>
 
-  <a href="YOUR_LEETCODE_PROFILE_LINK">
+  <a href="https://leetcode.com/u/Md-Minshaniya/">
     <img
       src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
       alt="LeetCode Profile"
