@@ -9,42 +9,19 @@
 </p>
 
 <div align="center">
-
-  <a href="mailto:minish4279niya@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-
-  <a href="tel:+917671825792">
-    <img
-      src="https://img.shields.io/badge/Contact-2E7D32?style=for-the-badge&logo=phone&logoColor=white"
-      alt="Contact"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/mdminshaniya">
+  <a href="https://www.linkedin.com/in/md-minshaniya">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://github.com/Md-Minshaniya">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
+      alt="LinkedIn Profile"
     />
   </a>
 
   <a href="YOUR_LEETCODE_PROFILE_LINK">
     <img
       src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-      alt="LeetCode"
+      alt="LeetCode Profile"
     />
   </a>
-
 </div>
 
 ---
@@ -55,7 +32,7 @@
 - Expected graduation: **2027**
 - Current CGPA: **9.03/10**
 - Interested in Java backend development and mobile application development
-- Experienced in building applications using Spring Boot, React Native, MySQL, and Firebase
+- Experienced in developing applications using Spring Boot, React Native, MySQL, and Firebase
 - Solved **300+ Data Structures and Algorithms problems on LeetCode**
 - Published the **Color Blast** multiplayer mobile game on Google Play Store
 
@@ -64,109 +41,54 @@
 ## Languages and Technologies
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" />
+  <img width="10" />
 
-  <img
-    src="https://skillicons.dev/icons?i=java"
-    height="55"
-    alt="Java"
-  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="Spring Boot" />
+  <img width="10" />
 
-  <img
-    src="https://skillicons.dev/icons?i=spring"
-    height="55"
-    alt="Spring Boot"
-  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
+  <img width="10" />
 
-  <img
-    src="https://skillicons.dev/icons?i=js"
-    height="55"
-    alt="JavaScript"
-  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript" />
+  <img width="10" />
 
-  <img
-    src="https://skillicons.dev/icons?i=ts"
-    height="55"
-    alt="TypeScript"
-  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React Native" />
+  <img width="10" />
 
-  <img
-    src="https://skillicons.dev/icons?i=react"
-    height="55"
-    alt="React Native"
-  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
+  <img width="10" />
 
-  <img
-    src="https://skillicons.dev/icons?i=mysql"
-    height="55"
-    alt="MySQL"
-  />
-  <img width="12" />
-
-  <img
-    src="https://skillicons.dev/icons?i=firebase"
-    height="55"
-    alt="Firebase"
-  />
-
-</div>
-
-<br>
-
-<div align="center">
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase" />
+  <img width="10" />
 
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg"
-    height="55"
+    height="50"
     alt="Hibernate"
   />
-  <img width="12" />
+  <img width="10" />
 
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg"
-    height="55"
+    height="50"
     alt="Maven"
   />
-  <img width="12" />
+  <img width="10" />
 
-  <img
-    src="https://skillicons.dev/icons?i=git"
-    height="55"
-    alt="Git"
-  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+  <img width="10" />
 
-  <img
-    src="https://skillicons.dev/icons?i=github"
-    height="55"
-    alt="GitHub"
-  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+  <img width="10" />
 
-  <img
-    src="https://skillicons.dev/icons?i=postman"
-    height="55"
-    alt="Postman"
-  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="Postman" />
+  <img width="10" />
 
-  <img
-    src="https://skillicons.dev/icons?i=vscode"
-    height="55"
-    alt="Visual Studio Code"
-  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="Visual Studio Code" />
+  <img width="10" />
 
-  <img
-    src="https://skillicons.dev/icons?i=idea"
-    height="55"
-    alt="IntelliJ IDEA"
-  />
-
+  <img src="https://skillicons.dev/icons?i=idea" height="50" alt="IntelliJ IDEA" />
 </div>
 
 ---
@@ -180,7 +102,7 @@
 | **Mobile Development** | React Native, Expo, Expo Router, React Navigation, Context API, AsyncStorage |
 | **Databases and Services** | MySQL, Cloud Firestore, Firebase Realtime Database, Firebase Authentication, Firebase Storage |
 | **Developer Tools** | Git, GitHub, Maven, Postman, Swagger, IntelliJ IDEA, Visual Studio Code |
-| **Core Computer Science** | DSA, OOP, DBMS, Operating Systems, Computer Networks |
+| **Core Computer Science** | Data Structures and Algorithms, OOP, DBMS, Operating Systems, Computer Networks |
 
 ---
 
@@ -192,7 +114,7 @@
 
 ### Disaster Response System
 
-Multi-agent disaster response platform developed for flood prediction, emergency resource allocation, and real-time monitoring
+Multi-agent disaster response platform for flood prediction, emergency resource allocation, and real-time monitoring
 
 **Technologies**
 
@@ -201,7 +123,7 @@ Multi-agent disaster response platform developed for flood prediction, emergency
 <a href="YOUR_DISASTER_RESPONSE_REPOSITORY_LINK">
   <img
     src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="View Repository"
+    alt="View Disaster Response Repository"
   />
 </a>
 
@@ -220,7 +142,7 @@ Secure banking backend supporting customer authentication, account management, f
 <a href="YOUR_ONLINE_BANKING_REPOSITORY_LINK">
   <img
     src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="View Repository"
+    alt="View Online Banking Repository"
   />
 </a>
 
@@ -241,7 +163,7 @@ Multilingual mobile application providing step-by-step guides, instructional vid
 <a href="YOUR_HOWKAISA_REPOSITORY_LINK">
   <img
     src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="View Repository"
+    alt="View HowKaisa Repository"
   />
 </a>
 
@@ -260,14 +182,14 @@ Cross-platform multiplayer strategy game featuring offline and online gameplay, 
 <a href="YOUR_COLOR_BLAST_REPOSITORY_LINK">
   <img
     src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="View Repository"
+    alt="View Color Blast Repository"
   />
 </a>
 
 <a href="YOUR_GOOGLE_PLAY_STORE_LINK">
   <img
     src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white"
-    alt="Google Play"
+    alt="Color Blast on Google Play"
   />
 </a>
 
@@ -285,7 +207,7 @@ Cross-platform multiplayer strategy game featuring offline and online gameplay, 
 
 - Gained hands-on experience with Azure Storage, Cosmos DB, Static Web App deployment, and Azure AI services
 - Completed Microsoft Learn modules on Azure Fundamentals, Azure AI Fundamentals, and Microsoft Security Fundamentals
-- Completed a technical internship project involving image-based waste classification
+- Participated in technical sessions, practical exercises, assessments, and project-based learning
 
 ### ServiceNow Virtual Internship Program
 
@@ -303,46 +225,3 @@ Cross-platform multiplayer strategy game featuring offline and online gameplay, 
 - **NPTEL Programming in Java:** Scored 94%
 - **LeetCode:** Solved 300+ Data Structures and Algorithms problems
 - Published the **Color Blast** multiplayer mobile game on Google Play Store
-
----
-
-## Contact
-
-<div align="center">
-
-  <a href="mailto:minish4279niya@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-
-  <a href="tel:+917671825792">
-    <img
-      src="https://img.shields.io/badge/Contact-2E7D32?style=for-the-badge&logo=phone&logoColor=white"
-      alt="Contact"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/md-minshaniya">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://github.com/Md-Minshaniya">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-
-  <a href="Md-Minshaniya">
-    <img
-      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-      alt="LeetCode"
-    />
-  </a>
-
-</div>
