@@ -1,155 +1,348 @@
-<h1 align="center">Hi 👋, I'm Md Minshaniya</h1>
-<h3 align="center">Aspiring Software Developer | Java | Spring Boot | React Native</h3>
+<h1 align="center">Hi, I'm Md Minshaniya</h1>
+
+<h3 align="center">
+  Aspiring Software Developer | Java | Spring Boot | React Native
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Md-Minshaniya">LinkedIn</a> •
-  <a href="https://github.com/Md-Minshaniya">GitHub</a> •
-  <a href="https://leetcode.com/u/Md-Minshaniya/">LeetCode</a>
+  Computer Science undergraduate interested in Java backend development and cross-platform mobile application development
 </p>
 
----
+<div align="center">
 
-## 👨‍💻 About Me
+  <a href="mailto:minish4279niya@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
 
-- 🎓 B.Tech in Computer Science and Engineering at Malla Reddy Engineering College for Women (Expected 2027)
-- 💻 Interested in Java Backend Development and Mobile Application Development
-- 🌱 Currently strengthening my knowledge in Java, Spring Boot, Data Structures & Algorithms, and Cloud Fundamentals
-- 🚀 Passionate about building scalable backend systems and cross-platform mobile applications
-- 📚 Solved **300+ Data Structures and Algorithms** problems on LeetCode
+  <a href="tel:+917671825792">
+    <img
+      src="https://img.shields.io/badge/Contact-2E7D32?style=for-the-badge&logo=phone&logoColor=white"
+      alt="Contact"
+    />
+  </a>
 
----
+  <a href="https://www.linkedin.com/in/mdminshaniya">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 
-## 🛠️ Technical Skills
+  <a href="https://github.com/Md-Minshaniya">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
 
-### Programming Languages
-- Java
-- JavaScript
-- TypeScript
-- SQL
+  <a href="YOUR_LEETCODE_PROFILE_LINK">
+    <img
+      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="LeetCode"
+    />
+  </a>
 
-### Frameworks & Technologies
-- Spring Boot
-- Spring Security (JWT)
-- Spring Data JPA
-- Hibernate
-- REST APIs
-- WebSocket
-- React Native (Expo)
-
-### Databases & Cloud Services
-- MySQL
-- Firebase Authentication
-- Cloud Firestore
-- Firebase Realtime Database
-- Firebase Storage
-
-### Developer Tools
-- Git
-- GitHub
-- Maven
-- Postman
-- Swagger (OpenAPI)
-- IntelliJ IDEA
-- Visual Studio Code
-
-### Core Computer Science
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Computer Networks
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## About Me
 
-## 🚨 Disaster Response System
-Spring Boot-based disaster response platform for flood prediction, emergency resource allocation, and real-time monitoring.
-
-**Tech Stack**
-- Java 17
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- MySQL
-- REST APIs
-- WebSocket
+- B.Tech student in Computer Science and Engineering at Malla Reddy Engineering College for Women, Hyderabad
+- Expected graduation: **2027**
+- Current CGPA: **9.03/10**
+- Interested in Java backend development and mobile application development
+- Experienced in building applications using Spring Boot, React Native, MySQL, and Firebase
+- Solved **300+ Data Structures and Algorithms problems on LeetCode**
+- Published the **Color Blast** multiplayer mobile game on Google Play Store
 
 ---
 
-## 🏦 Online Banking System
-Secure banking backend supporting customer authentication, account management, fund transfers, and transaction history.
+## Languages and Technologies
 
-**Tech Stack**
-- Java 21
-- Spring Boot
-- Spring Security (JWT)
-- Hibernate
-- MySQL
-- REST APIs
-- Swagger
+<div align="center">
+
+  <img
+    src="https://skillicons.dev/icons?i=java"
+    height="55"
+    alt="Java"
+  />
+  <img width="12" />
+
+  <img
+    src="https://skillicons.dev/icons?i=spring"
+    height="55"
+    alt="Spring Boot"
+  />
+  <img width="12" />
+
+  <img
+    src="https://skillicons.dev/icons?i=js"
+    height="55"
+    alt="JavaScript"
+  />
+  <img width="12" />
+
+  <img
+    src="https://skillicons.dev/icons?i=ts"
+    height="55"
+    alt="TypeScript"
+  />
+  <img width="12" />
+
+  <img
+    src="https://skillicons.dev/icons?i=react"
+    height="55"
+    alt="React Native"
+  />
+  <img width="12" />
+
+  <img
+    src="https://skillicons.dev/icons?i=mysql"
+    height="55"
+    alt="MySQL"
+  />
+  <img width="12" />
+
+  <img
+    src="https://skillicons.dev/icons?i=firebase"
+    height="55"
+    alt="Firebase"
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg"
+    height="55"
+    alt="Hibernate"
+  />
+  <img width="12" />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg"
+    height="55"
+    alt="Maven"
+  />
+  <img width="12" />
+
+  <img
+    src="https://skillicons.dev/icons?i=git"
+    height="55"
+    alt="Git"
+  />
+  <img width="12" />
+
+  <img
+    src="https://skillicons.dev/icons?i=github"
+    height="55"
+    alt="GitHub"
+  />
+  <img width="12" />
+
+  <img
+    src="https://skillicons.dev/icons?i=postman"
+    height="55"
+    alt="Postman"
+  />
+  <img width="12" />
+
+  <img
+    src="https://skillicons.dev/icons?i=vscode"
+    height="55"
+    alt="Visual Studio Code"
+  />
+  <img width="12" />
+
+  <img
+    src="https://skillicons.dev/icons?i=idea"
+    height="55"
+    alt="IntelliJ IDEA"
+  />
+
+</div>
 
 ---
 
-## 📱 HowKaisa
-Multilingual mobile application providing step-by-step guides, instructional videos, and digital resources for government and everyday services.
+## Technical Skills
 
-**Tech Stack**
-- React Native (Expo)
-- TypeScript
-- Firebase Authentication
-- Cloud Firestore
-- Firebase Storage
-
----
-
-## 🎮 Color Blast
-Cross-platform multiplayer strategy game featuring offline and online gameplay, room-based matchmaking, and real-time synchronization.
-
-**Tech Stack**
-- React Native (Expo)
-- JavaScript
-- Firebase Authentication
-- Firebase Realtime Database
+| Category | Skills |
+|---|---|
+| **Programming Languages** | Java, JavaScript, TypeScript, SQL |
+| **Backend Development** | Spring Boot, Spring Security, Spring Data JPA, Hibernate, REST APIs, WebSocket |
+| **Mobile Development** | React Native, Expo, Expo Router, React Navigation, Context API, AsyncStorage |
+| **Databases and Services** | MySQL, Cloud Firestore, Firebase Realtime Database, Firebase Authentication, Firebase Storage |
+| **Developer Tools** | Git, GitHub, Maven, Postman, Swagger, IntelliJ IDEA, Visual Studio Code |
+| **Core Computer Science** | DSA, OOP, DBMS, Operating Systems, Computer Networks |
 
 ---
 
-## 🤖 Smart Waste Management System
-AI-powered waste classification system using a CNN model with TensorFlow and Keras to classify waste images into six categories through a FastAPI web application.
+## Featured Projects
 
-**Tech Stack**
-- Python
-- TensorFlow
-- Keras
-- FastAPI
-- Streamlit
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Disaster Response System
+
+Multi-agent disaster response platform developed for flood prediction, emergency resource allocation, and real-time monitoring
+
+**Technologies**
+
+`Java 17` `Spring Boot` `Spring Data JPA` `Hibernate` `MySQL` `REST APIs` `WebSocket`
+
+<a href="YOUR_DISASTER_RESPONSE_REPOSITORY_LINK">
+  <img
+    src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="View Repository"
+  />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Online Banking System
+
+Secure banking backend supporting customer authentication, account management, fund transfers, and transaction history
+
+**Technologies**
+
+`Java 21` `Spring Boot` `Spring Security` `JWT` `Hibernate` `MySQL` `Swagger`
+
+<a href="YOUR_ONLINE_BANKING_REPOSITORY_LINK">
+  <img
+    src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="View Repository"
+  />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### HowKaisa
+
+Multilingual mobile application providing step-by-step guides, instructional videos, and digital resources for government and everyday services
+
+**Technologies**
+
+`React Native` `Expo` `TypeScript` `Firebase Authentication` `Cloud Firestore` `Firebase Storage`
+
+<a href="YOUR_HOWKAISA_REPOSITORY_LINK">
+  <img
+    src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="View Repository"
+  />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Color Blast
+
+Cross-platform multiplayer strategy game featuring offline and online gameplay, room-based matchmaking, AI gameplay, and real-time synchronization
+
+**Technologies**
+
+`React Native` `Expo` `JavaScript` `Firebase Authentication` `Realtime Database` `AsyncStorage`
+
+<a href="YOUR_COLOR_BLAST_REPOSITORY_LINK">
+  <img
+    src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="View Repository"
+  />
+</a>
+
+<a href="YOUR_GOOGLE_PLAY_STORE_LINK">
+  <img
+    src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white"
+    alt="Google Play"
+  />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 💼 Internship Experience
+## Internship Experience
 
 ### Microsoft Elevate – Microsoft Azure Virtual Internship
-- Gained hands-on experience with Microsoft Azure cloud services, including Azure Storage, Cosmos DB, Static Web App deployment, and Azure AI services
-- Completed Microsoft Learn modules on Azure Fundamentals (AZ-900), Azure AI Fundamentals (AI-900), and Microsoft Security Fundamentals (SC-900)
-- Developed an AI-powered Smart Waste Management System using TensorFlow and Keras as the internship project
+
+`January 2026 – February 2026`
+
+- Gained hands-on experience with Azure Storage, Cosmos DB, Static Web App deployment, and Azure AI services
+- Completed Microsoft Learn modules on Azure Fundamentals, Azure AI Fundamentals, and Microsoft Security Fundamentals
+- Completed a technical internship project involving image-based waste classification
 
 ### ServiceNow Virtual Internship Program
-- Gained hands-on experience with ServiceNow platform administration, workflow automation, Automated Test Framework (ATF), and reporting
-- Completed ServiceNow Fundamentals training, earned the ServiceNow Micro-Certification – Welcome to ServiceNow, and prepared for the Certified System Administrator (CSA) certification
+
+`March 2025 – October 2025`
+
+- Gained hands-on experience with ServiceNow platform administration, workflow automation, Automated Test Framework, and reporting
+- Completed ServiceNow Fundamentals training
+- Earned the **Welcome to ServiceNow Micro-Certification**
+- Prepared for the ServiceNow Certified System Administrator certification
 
 ---
 
-# 🏆 Achievements
+## Achievements and Certifications
 
+- **NPTEL Programming in Java:** Scored 94%
+- **LeetCode:** Solved 300+ Data Structures and Algorithms problems
 - Published the **Color Blast** multiplayer mobile game on Google Play Store
-- Solved **300+ Data Structures and Algorithms** problems on LeetCode
-- NPTEL Programming in Java – **94%**
 
 ---
 
-## 📫 Connect with Me
+## Contact
 
-- 📧 Email: minish4279niya@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/Md-Minshaniya
-- 💻 GitHub: https://github.com/Md-Minshaniya
-- 🧩 LeetCode: https://leetcode.com/u/Md-Minshaniya
+<div align="center">
+
+  <a href="mailto:minish4279niya@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+  <a href="tel:+917671825792">
+    <img
+      src="https://img.shields.io/badge/Contact-2E7D32?style=for-the-badge&logo=phone&logoColor=white"
+      alt="Contact"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/md-minshaniya">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://github.com/Md-Minshaniya">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="Md-Minshaniya">
+    <img
+      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="LeetCode"
+    />
+  </a>
+
+</div>
