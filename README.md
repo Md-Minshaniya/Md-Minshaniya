@@ -33,9 +33,7 @@
 - Current CGPA: **9.03/10**
 - Interested in Java backend development and mobile application development
 - Experienced in developing applications using Spring Boot, React Native, MySQL, and Firebase
-- Solved **300+ Data Structures and Algorithms problems on LeetCode**
-- Published the **Color Blast** multiplayer mobile game on Google Play Store
-
+  
 ---
 
 ## Languages and Technologies
@@ -186,12 +184,6 @@ Cross-platform multiplayer strategy game featuring offline and online gameplay, 
   />
 </a>
 
-<a href="YOUR_GOOGLE_PLAY_STORE_LINK">
-  <img
-    src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white"
-    alt="Color Blast on Google Play"
-  />
-</a>
 
 </td>
 </tr>
