@@ -120,7 +120,7 @@ Multi-agent disaster response platform for flood prediction, emergency resource 
 
 `Java 17` `Spring Boot` `Spring Data JPA` `Hibernate` `MySQL` `REST APIs` `WebSocket`
 
-<a href="YOUR_DISASTER_RESPONSE_REPOSITORY_LINK">
+<a href="https://github.com/Md-Minshaniya/disaster-response-system">
   <img
     src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="View Disaster Response Repository"
@@ -139,7 +139,7 @@ Secure banking backend supporting customer authentication, account management, f
 
 `Java 21` `Spring Boot` `Spring Security` `JWT` `Hibernate` `MySQL` `Swagger`
 
-<a href="YOUR_ONLINE_BANKING_REPOSITORY_LINK">
+<a href="https://github.com/Md-Minshaniya/online-banking-system">
   <img
     src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="View Online Banking Repository"
@@ -160,7 +160,7 @@ Multilingual mobile application providing step-by-step guides, instructional vid
 
 `React Native` `Expo` `TypeScript` `Firebase Authentication` `Cloud Firestore` `Firebase Storage`
 
-<a href="YOUR_HOWKAISA_REPOSITORY_LINK">
+<a href="https://github.com/Md-Minshaniya/HowKaisa">
   <img
     src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="View HowKaisa Repository"
@@ -179,7 +179,7 @@ Cross-platform multiplayer strategy game featuring offline and online gameplay, 
 
 `React Native` `Expo` `JavaScript` `Firebase Authentication` `Realtime Database` `AsyncStorage`
 
-<a href="YOUR_COLOR_BLAST_REPOSITORY_LINK">
+<a href="https://github.com/Md-Minshaniya/ColorBlast">
   <img
     src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="View Color Blast Repository"
