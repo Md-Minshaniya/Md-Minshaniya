@@ -2,9 +2,9 @@
 <h3 align="center">Aspiring Software Developer | Java | Spring Boot | React Native</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">LinkedIn</a> •
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">GitHub</a> •
-  <a href="https://leetcode.com/u/YOUR-LEETCODE-USERNAME/">LeetCode</a>
+  <a href="https://www.linkedin.com/in/Md-Minshaniya">LinkedIn</a> •
+  <a href="https://github.com/Md-Minshaniya">GitHub</a> •
+  <a href="https://leetcode.com/u/Md-Minshaniya/">LeetCode</a>
 </p>
 
 ---
